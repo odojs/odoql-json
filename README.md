@@ -1,5 +1,7 @@
 # OdoQL
 
+>Note: This library has been made obsolete by the new version of OdoQL
+
 JSON querying for OdoQL
 
 ```json
