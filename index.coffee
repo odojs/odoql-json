@@ -6,7 +6,6 @@ module.exports =
         getsource (err, source) ->
           return cb err if err?
           try
-            console.log source
             cb null, JSON.parse source
           catch e
             cb e
