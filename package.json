@@ -1,7 +1,7 @@
 {
   "name": "odoql-json",
   "version": "1.0.1",
-  "description": "Json querying for odoql",
+  "description": "JSON for odoql",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
